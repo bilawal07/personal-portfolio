@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Private runtime configuration (EmailJS & service tokens)
+config.js
+
+# Resume source & generation scripts
+build_resume.py
+build_resumes_dual.py
+generate_logos.py
+update_pages.py
+create_mockups.py
+apply_full_upgrade.py
+upgrade_pages_dual.py
+resume.html
+resume_page_*.png
+
