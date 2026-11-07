@@ -1,0 +1,7 @@
+# robots.txt for Bilawal Hussain Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://bilawal07.github.io/personal-portfolio/sitemap.xml
+
